@@ -1,8 +1,6 @@
-# Title
+# Mystery Organism
 
-**Mystery Organism**
-
-## Introduction
+## General Info
 
 Codecademy Project practicing task for Full-Stack Engineer Course
 
